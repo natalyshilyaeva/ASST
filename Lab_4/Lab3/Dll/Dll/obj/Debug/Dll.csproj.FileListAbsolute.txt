@@ -1,0 +1,16 @@
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Dll\Dll\bin\Debug\Dll.dll
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Dll\Dll\bin\Debug\Dll.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Dll\Dll\obj\Debug\Dll.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Dll\Dll\obj\Debug\Dll.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Dll\Dll\obj\Debug\Dll.dll
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Dll\Dll\obj\Debug\Dll.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Dll\Dll\obj\Debug\Dll.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Dll\Dll\obj\Debug\Dll.Pizza.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Dll\Dll\obj\Debug\Dll.Sushi.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Dll\Dll\obj\Debug\Dll.csproj.GenerateResource.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Dll\Dll\obj\Debug\Dll.dll
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Dll\Dll\obj\Debug\Dll.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Dll\Dll\bin\Debug\Dll.dll
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Dll\Dll\bin\Debug\Dll.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Dll\Dll\obj\Debug\Dll.Properties.Resources.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Dll\Dll\obj\Debug\Dll.csproj.CoreCompileInputs.cache

@@ -1,0 +1,40 @@
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Command\Command\bin\Debug\Command.exe.config
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Command\Command\bin\Debug\Command.exe
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Command\Command\bin\Debug\Command.pdb
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.csprojAssemblyReference.cache
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.Form1.resources
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.Properties.Resources.resources
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.csproj.GenerateResource.cache
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.exe
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.pdb
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\Command\Command\bin\Debug\Command.exe.config
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\Command\Command\bin\Debug\Command.exe
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\Command\Command\bin\Debug\Command.pdb
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.csprojAssemblyReference.cache
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.Form1.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.Properties.Resources.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.csproj.GenerateResource.cache
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.exe
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Command\Command\bin\Debug\Command.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Command\Command\bin\Debug\Command.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Command\Command\bin\Debug\Command.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.Form1.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.Properties.Resources.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.csproj.GenerateResource.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Command\Command\bin\Debug\Command.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Command\Command\bin\Debug\Command.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Command\Command\bin\Debug\Command.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Command\Command\obj\Debug\Command.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Command\Command\obj\Debug\Command.Form1.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Command\Command\obj\Debug\Command.Properties.Resources.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Command\Command\obj\Debug\Command.csproj.GenerateResource.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Command\Command\obj\Debug\Command.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Command\Command\obj\Debug\Command.pdb

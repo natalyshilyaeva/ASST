@@ -1,0 +1,13 @@
+C:\Users\vd-la\Documents\Университет\2 курс\Инфа\ИСРППС\Лабы\05\lab5_CR\bin\Debug\lab5_CR.exe.config
+C:\Users\vd-la\Documents\Университет\2 курс\Инфа\ИСРППС\Лабы\05\lab5_CR\bin\Debug\lab5_CR.exe
+C:\Users\vd-la\Documents\Университет\2 курс\Инфа\ИСРППС\Лабы\05\lab5_CR\bin\Debug\lab5_CR.pdb
+C:\Users\vd-la\Documents\Университет\2 курс\Инфа\ИСРППС\Лабы\05\lab5_CR\obj\Debug\lab5_CR.csprojAssemblyReference.cache
+C:\Users\vd-la\Documents\Университет\2 курс\Инфа\ИСРППС\Лабы\05\lab5_CR\obj\Debug\lab5_CR.exe
+C:\Users\vd-la\Documents\Университет\2 курс\Инфа\ИСРППС\Лабы\05\lab5_CR\obj\Debug\lab5_CR.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\lab5\lab5_CR\bin\Debug\lab5_CR.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\lab5\lab5_CR\bin\Debug\lab5_CR.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\lab5\lab5_CR\bin\Debug\lab5_CR.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\lab5\lab5_CR\obj\Debug\lab5_CR.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\lab5\lab5_CR\obj\Debug\lab5_CR.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\lab5\lab5_CR\obj\Debug\lab5_CR.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\lab5\lab5_CR\obj\Debug\lab5_CR.pdb

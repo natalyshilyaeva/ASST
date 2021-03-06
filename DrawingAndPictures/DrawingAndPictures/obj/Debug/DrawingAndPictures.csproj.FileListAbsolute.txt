@@ -1,0 +1,52 @@
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\DrawingAndPictures.exe.config
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\DrawingAndPictures.exe
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\DrawingAndPictures.pdb
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csprojAssemblyReference.cache
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.Form1.resources
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.Properties.Resources.resources
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csproj.GenerateResource.cache
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.exe
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.pdb
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\RotateImageLibrary.dll
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\RotateImageLibrary.pdb
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csproj.CopyComplete
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.Nemodalnoe.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\DrawingAndPictures.exe.config
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\DrawingAndPictures.exe
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\DrawingAndPictures.pdb
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\RotateImageLibrary.dll
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\RotateImageLibrary.pdb
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csprojAssemblyReference.cache
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.Form1.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.Nemodalnoe.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.Properties.Resources.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csproj.GenerateResource.cache
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csproj.CopyComplete
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.exe
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\DrawingAndPictures.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\DrawingAndPictures.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\DrawingAndPictures.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\RotateImageLibrary.dll
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\RotateImageLibrary.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.Form1.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.Nemodalnoe.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.Properties.Resources.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csproj.GenerateResource.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csproj.CopyComplete
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\DrawingAndPictures.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\DrawingAndPictures.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\DrawingAndPictures\DrawingAndPictures\bin\Debug\DrawingAndPictures.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.Form1.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.Properties.Resources.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csproj.GenerateResource.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\DrawingAndPictures\DrawingAndPictures\obj\Debug\DrawingAndPictures.pdb

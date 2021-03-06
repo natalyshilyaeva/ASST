@@ -1,0 +1,30 @@
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Frames\Frames\bin\Debug\Frames.exe.config
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Frames\Frames\bin\Debug\Frames.exe
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Frames\Frames\bin\Debug\Frames.pdb
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Frames\Frames\obj\Debug\Frames.csprojAssemblyReference.cache
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Frames\Frames\obj\Debug\Frames.Form1.resources
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Frames\Frames\obj\Debug\Frames.Properties.Resources.resources
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Frames\Frames\obj\Debug\Frames.csproj.GenerateResource.cache
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Frames\Frames\obj\Debug\Frames.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Frames\Frames\obj\Debug\Frames.exe
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\Frames\Frames\obj\Debug\Frames.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Frames\Frames\bin\Debug\Frames.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Frames\Frames\bin\Debug\Frames.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Frames\Frames\bin\Debug\Frames.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Frames\Frames\obj\Debug\Frames.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Frames\Frames\obj\Debug\Frames.Form1.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Frames\Frames\obj\Debug\Frames.Properties.Resources.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Frames\Frames\obj\Debug\Frames.csproj.GenerateResource.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Frames\Frames\obj\Debug\Frames.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Frames\Frames\obj\Debug\Frames.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\ИСРППС\Frames\Frames\obj\Debug\Frames.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Frames\Frames\bin\Debug\Frames.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Frames\Frames\bin\Debug\Frames.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Frames\Frames\bin\Debug\Frames.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Frames\Frames\obj\Debug\Frames.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Frames\Frames\obj\Debug\Frames.Form1.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Frames\Frames\obj\Debug\Frames.Properties.Resources.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Frames\Frames\obj\Debug\Frames.csproj.GenerateResource.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Frames\Frames\obj\Debug\Frames.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Frames\Frames\obj\Debug\Frames.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Frames\Frames\obj\Debug\Frames.pdb

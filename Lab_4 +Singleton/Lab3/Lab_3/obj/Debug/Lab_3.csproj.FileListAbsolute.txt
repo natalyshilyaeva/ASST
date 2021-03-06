@@ -1,0 +1,58 @@
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab_3\obj\Debug\Lab_3.Form1.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab_3\obj\Debug\Lab_3.Pizza.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab_3\obj\Debug\Lab_3.Sushi.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab_3\obj\Debug\Lab_3.Surename.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Lab_3\bin\Debug\Lab_3.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Lab_3\obj\Debug\Lab_3.Form1.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Lab_3\obj\Debug\Lab_3.Pizza.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Lab_3\obj\Debug\Lab_3.Surename.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Lab_3\obj\Debug\Lab_3.Sushi.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Lab_3\obj\Debug\Lab_3.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Lab_3\bin\Debug\Lab_3.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Lab_3\bin\Debug\Lab_3.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_3\Lab3\Lab_3\obj\Debug\Lab_3.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\obj\Debug\Lab_3.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\obj\Debug\Lab_3.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\obj\Debug\Lab_3.Form1.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\obj\Debug\Lab_3.Pizza.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\obj\Debug\Lab_3.Surename.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\obj\Debug\Lab_3.Sushi.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\bin\Debug\Lab_3.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\bin\Debug\Lab_3.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\bin\Debug\Lab_3.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\bin\Debug\Dll.dll
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\bin\Debug\Dll.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4\Lab3\Lab_3\obj\Debug\Lab_3.csproj.CopyComplete
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\bin\Debug\Lab_3.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\bin\Debug\Lab_3.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\bin\Debug\Lab_3.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\bin\Debug\Dll.dll
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\bin\Debug\Dll.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\obj\Debug\Lab_3.Form1.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\obj\Debug\Lab_3.Pizza.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\obj\Debug\Lab_3.Surename.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\obj\Debug\Lab_3.Sushi.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\obj\Debug\Lab_3.csproj.CopyComplete
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\obj\Debug\Lab_3.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\ИСРППС\Lab_4 — копия\Lab3\Lab_3\obj\Debug\Lab_3.pdb

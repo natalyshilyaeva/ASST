@@ -1,0 +1,83 @@
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.exe.config
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.exe
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.pdb
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csprojAssemblyReference.cache
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.AlgorithmInformation.resources
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.Form1.resources
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.Properties.Resources.resources
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.exe
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.pdb
+C:\Users\Anna\Documents\Инфа\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.exe.config
+C:\Users\Anna\Documents\Инфа\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.exe
+C:\Users\Anna\Documents\Инфа\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.pdb
+C:\Users\Anna\Documents\Инфа\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csprojAssemblyReference.cache
+C:\Users\Anna\Documents\Инфа\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.AlgorithmInformation.resources
+C:\Users\Anna\Documents\Инфа\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.Form1.resources
+C:\Users\Anna\Documents\Инфа\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.Properties.Resources.resources
+C:\Users\Anna\Documents\Инфа\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\Anna\Documents\Инфа\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\Инфа\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.exe
+C:\Users\Anna\Documents\Инфа\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.pdb
+C:\Users\Anna\Documents\Инфа\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.UsageInformation.resources
+C:\Users\Anna\Desktop\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.exe.config
+C:\Users\Anna\Desktop\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.exe
+C:\Users\Anna\Desktop\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.pdb
+C:\Users\Anna\Desktop\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csprojAssemblyReference.cache
+C:\Users\Anna\Desktop\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.AlgorithmInformation.resources
+C:\Users\Anna\Desktop\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.Form1.resources
+C:\Users\Anna\Desktop\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.Properties.Resources.resources
+C:\Users\Anna\Desktop\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\Anna\Desktop\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.exe
+C:\Users\Anna\Desktop\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.pdb
+C:\Users\Anna\Desktop\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.EnglishInformation.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.exe.config
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.exe
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.pdb
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csprojAssemblyReference.cache
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.AlgorithmInformation.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.EnglishInformation.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.Form1.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.Properties.Resources.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.exe
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.AlgorithmInformation.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.EnglishInformation.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.Form1.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.Properties.Resources.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csproj.GenerateResource.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы 2\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.AlgorithmInformation.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.EnglishInformation.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.Form1.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.Properties.Resources.resources
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csproj.GenerateResource.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.pdb
+D:\Моя_папка\Наташа\Универ\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.exe.config
+D:\Моя_папка\Наташа\Универ\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.exe
+D:\Моя_папка\Наташа\Универ\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\bin\Debug\KursGeneticAlgorithm.pdb
+D:\Моя_папка\Наташа\Универ\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\Универ\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.AlgorithmInformation.resources
+D:\Моя_папка\Наташа\Универ\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.EnglishInformation.resources
+D:\Моя_папка\Наташа\Универ\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.Form1.resources
+D:\Моя_папка\Наташа\Универ\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.Properties.Resources.resources
+D:\Моя_папка\Наташа\Универ\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csproj.GenerateResource.cache
+D:\Моя_папка\Наташа\Универ\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\Универ\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.exe
+D:\Моя_папка\Наташа\Универ\2_курс\Программирование\Моё\Курсовая\KursGeneticAlgorithm\KursGeneticAlgorithm\obj\Debug\KursGeneticAlgorithm.pdb
